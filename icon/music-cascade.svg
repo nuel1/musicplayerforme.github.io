@@ -1,0 +1,12 @@
+<svg id="music-cascade" xmlns="http://www.w3.org/2000/svg" width="21.834" height="21.834" viewBox="0 0 21.834 21.834">
+  <rect id="Rectangle_21" data-name="Rectangle 21" width="21.834" height="21.834" fill="none"/>
+  <g id="Group_19" data-name="Group 19" transform="translate(0.91 0.91)">
+    <g id="Group_18" data-name="Group 18">
+      <path id="Path_25" data-name="Path 25" d="M16.466,9H19.2a1.819,1.819,0,0,1,1.82,1.82v9.1a1.819,1.819,0,0,1-1.82,1.82H2.82A1.819,1.819,0,0,1,1,19.917v-9.1A1.819,1.819,0,0,1,2.82,9H9.188" transform="translate(-1 -1.722)" fill="none" stroke="#404040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.82"/>
+      <path id="Path_26" data-name="Path 26" d="M3,5H19.376" transform="translate(-1.18 -1.361)" fill="none" stroke="#404040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.82"/>
+      <path id="Path_27" data-name="Path 27" d="M5,1H17.737" transform="translate(-1.361 -1)" fill="none" stroke="#404040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.82"/>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="2.729" cy="2.274" rx="2.729" ry="2.274" transform="translate(6.368 11.827)" fill="none" stroke="#404040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.82"/>
+      <path id="Path_28" data-name="Path 28" d="M14,9v6.823" transform="translate(-2.173 -1.722)" fill="none" stroke="#404040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.82"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="checkbox" transform="translate(-520 -720.403)">
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="10.5" cy="10.5" r="10.5" transform="translate(520 720.403)" fill="#fff"/>
+    <path id="check" d="M4.86,75.559.21,70.909a.716.716,0,0,1,0-1.012l1.012-1.012a.715.715,0,0,1,1.012,0l3.133,3.133,6.71-6.71a.715.715,0,0,1,1.012,0L14.1,66.32a.715.715,0,0,1,0,1.012L5.872,75.559a.715.715,0,0,1-1.012,0Z" transform="translate(523.729 660.323)" fill="#e56d2f"/>
+  </g>
+</svg>

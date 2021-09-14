@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.691" height="31.691" viewBox="0 0 31.691 31.691">
+  <g id="button-shuffle" opacity="0.305">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="31.691" height="31.691" fill="none"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(0.99 4.949)">
+      <path id="Path_3" data-name="Path 3" d="M13.1,9.722A7.417,7.417,0,0,0,7.682,6.748H.75" transform="translate(-0.75 -2.787)" fill="none" stroke="#464242" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.981"/>
+      <path id="Path_4" data-name="Path 4" d="M30.461,6.748H23.528c-4.952,0-7.923,6.932-7.923,6.932s-2.971,6.932-7.923,6.932H.75" transform="translate(-0.75 -2.787)" fill="none" stroke="#464242" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.981"/>
+      <path id="Path_5" data-name="Path 5" d="M13.9,15a7.408,7.408,0,0,0,5.414,2.968h6.932" transform="translate(3.464 -0.142)" fill="none" stroke="#464242" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.981"/>
+      <path id="Path_6" data-name="Path 6" d="M20.25,3.748l3.961,3.961L20.25,11.671" transform="translate(5.499 -3.748)" fill="none" stroke="#464242" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.981"/>
+      <path id="Path_7" data-name="Path 7" d="M20.25,14.248l3.961,3.961L20.25,22.171" transform="translate(5.499 -0.383)" fill="none" stroke="#464242" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.981"/>
+    </g>
+  </g>
+</svg>

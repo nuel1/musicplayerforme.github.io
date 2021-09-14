@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274.4" height="266.118" viewBox="0 0 274.4 266.118">
+  <g id="album" transform="translate(-3953 -2626)">
+    <g id="Group_35" data-name="Group 35" transform="translate(3953 2626)">
+      <ellipse id="Ellipse_50" data-name="Ellipse 50" cx="129.639" cy="127.809" rx="129.639" ry="127.809" transform="translate(0)" fill="#fff"/>
+      <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="55.417" cy="53.753" rx="55.417" ry="53.753" transform="translate(73.224 72.225)"/>
+      <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="12.148" cy="11.816" rx="12.148" ry="11.816" transform="translate(118.157 112.498)" fill="#fff"/>
+      <path id="Path_385" data-name="Path 385" d="M0,8.551A118.177,118.177,0,0,1,33.273.335,88.472,88.472,0,0,1,66.984,3.948l-12.6,53.264s-5.828-2.847-16.917-2.063S22.9,59.056,22.9,59.056Z" transform="translate(16.571 67.919) rotate(-43)"/>
+    </g>
+    <path id="Path_384" data-name="Path 384" d="M3508.688,3051.96s22.54-17.56,19.34-42.262-62.89-32.822-62.89-32.822-3.849-.316-5.8,2.387-2.007,8.425-2.007,8.425v54.662s-27.224-9.727-38.242,17.818,17.416,39.275,17.416,39.275a29.755,29.755,0,0,0,26.3-2.31c13.506-8.175,13.746-24.449,13.746-24.449v-62.17s20.746-1.226,30.178,9.847S3508.688,3051.96,3508.688,3051.96Z" transform="translate(693.548 -214.869)" fill="#fff" stroke="#000" stroke-width="11"/>
+  </g>
+</svg>

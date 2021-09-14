@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142.778" height="102.9" viewBox="0 0 142.778 102.9">
+  <g id="volume-2" transform="translate(-1.25 0.02)">
+    <path id="Base" d="M61.194,5,28.308,31.308H2V70.771H28.308L61.194,97.079Z" transform="translate(0 0.39)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="_3" data-name="3" d="M38.757,4.93a65.771,65.771,0,0,1,0,93" transform="translate(82.514 0)" fill="rgba(255,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" opacity="0.2"/>
+    <path id="_2" data-name="2" d="M15.54,28.147a32.885,32.885,0,0,1,0,46.5" transform="translate(82.514 0)" fill="rgba(255,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" opacity="0.2"/>
+    <path id="_1" data-name="1" d="M15.54,28.147a10.562,10.562,0,0,1,0,14.934" transform="translate(63.782 15.783)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" opacity="0.3"/>
+  </g>
+</svg>
